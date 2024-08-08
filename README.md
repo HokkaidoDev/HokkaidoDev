@@ -3,7 +3,7 @@
 My name is Roman and I'm an Udemy-trained student interested in all things Android & Computer Science!
 - 🔭 I’m currently working on ToDoList, building an app for people who want to put their affairs in order.
 - 🌱 I’m currently learning RxJava stuff and I want to improve my ToDoList with this tool.
-  - 📫 How to reach me: hokkaido@dev.com
+- 📫 How to reach me: hokkaido@dev.com
 <!--
 **HokkaidoDev/HokkaidoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
