@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Roman and I'm an Udemy-trained student interested in all things Android & Computer Science!
-- 🔭 I’m currently finished with my app ToDoList, this is for people who want to put their affairs in order.
-- 🌱 I’m currently learning how to work with internet stuff. JSON, Retrofit, Glide.
+My name is Roman and I'm a student interested in Android & Computer Science!
+- 🔭 I’m currently finished with my app DogImages app. You can cheer yourself up with random dog images.
+- 🌱 Also learning how to create a Movie app.
 - 📫 How to reach me: hokkaido@dev.com
 <!--
 **HokkaidoDev/HokkaidoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
