@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Roman and I'm a student interested in Android & Computer Science!
+My name is Roman and I'm a student interested in Web development & Computer Science!
 - 🔭 I’m currently finished with my app DogImages app. You can cheer yourself up with random dog images.
 - 🌱 Also learning how to create a Movie app.
 - 📫 How to reach me: hokkaido@dev.com
