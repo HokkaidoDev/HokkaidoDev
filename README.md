@@ -2,7 +2,7 @@
 
 I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 
-**I love working with**
+**When I code, I rely on**
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
@@ -52,11 +52,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-## Hi there 👋
-
-My name is Roman and I'm a student interested in Web development & Computer Science!
-- 🔭 I’m currently finished with my app DogImages app. You can cheer yourself up with random dog images.
-- 🌱 Also learning how to create a Movie app.
-- 📫 How to reach me: hokkaido@dev.com
 -->
