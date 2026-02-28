@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG0yN2k0eGIwMG44ZGZneGdkdGRtZ3duZTlwNWIxNGJkbjE5Y3hxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif"  />
+**I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽**
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
-
-**When I code, I rely on**
+### When I code, I rely on
 
 <div display="flex">
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
