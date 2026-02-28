@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG0yN2k0eGIwMG44ZGZneGdkdGRtZ3duZTlwNWIxNGJkbjE5Y3hxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif"  />
+
+###
+
 I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 
 **When I code, I rely on**
@@ -39,6 +43,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 ### ⚡ Fun fact
 
 I studied psychology before writing code. Turns out debugging humans was harder than debugging JavaScript.
+
 <!--
 **HokkaidoDev/HokkaidoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
