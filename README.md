@@ -1,5 +1,6 @@
 <h1 align = "center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2500&pause=1500&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1000&height=325&lines=Hi+there+!+👋;My+name+is+Roman+Blazhevskyi;I+build+with+HTML,+CSS,+and+JS;Let's+make+websites+dance+🕺🏽;Welcome+to+my+GitHub+🏔️" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2500&pause=1500&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1000&height=250&lines=Hi+there+!+👋;My+name+is+Roman+Blazhevskyi;Welcome+to+my+GitHub+🏔️" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -33,10 +34,10 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/roman-blazhevskyi-5831601b8">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle; />
   </a>
   <a href="mailto:blazhevskyiromanmagellan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align: middle; />
   </a>
 </p>
 
@@ -68,4 +69,9 @@ Here are some ideas to get you started:
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+
+  <h1 align = "center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2500&pause=1500&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1000&height=325&lines=Hi+there+!+👋;My+name+is+Roman+Blazhevskyi;I+build+with+HTML,+CSS,+and+JS;Let's+make+websites+dance+🕺🏽;Welcome+to+my+GitHub+🏔️" alt="Typing SVG" />
+    </a>
+</h1>
 -->
