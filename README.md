@@ -1,5 +1,5 @@
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1800&pause=1000&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=520&lines=Hi+there+👋!;My+name+is+Roman+Blazhevskyi;I'm+using+HTML,+CSS,+and+JavaScript;to+make+websites+dance.+🕺🏽;Welcome+to+my+GitHub+🏔️" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1800&pause=1000&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=510&lines=Hi+there+👋!;My+name+is+Roman+Blazhevskyi;I'm+using+HTML,+CSS,+and+JavaScript;Let's+make+websites+dance+🕺🏽;Welcome+to+my+GitHub+🏔️+my+dear+visitors" alt="Typing SVG" /></a>
 </h1>
 
 **When I code, I rely on**
@@ -33,6 +33,7 @@
 <div display="flex">
   <a href="https://www.linkedin.com/in/roman-blazhevskyi-5831601b8"/>
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="mailto:blazhevskyiromanmagellan@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/>
   </a>
 </div>
 
