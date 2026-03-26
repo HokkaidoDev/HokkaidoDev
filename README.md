@@ -1,5 +1,5 @@
 <h1 align = "center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2500&pause=1500&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=Hi+there+!+👋;My+name+is+Roman+Blazhevskyi;I+build+with+HTML,+CSS,+and+JS;Let's+make+websites+dance+🕺🏽;Welcome+to+my+GitHub+🏔️" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2500&pause=1500&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1000&height=320&lines=Hi+there+!+👋;My+name+is+Roman+Blazhevskyi;I+build+with+HTML,+CSS,+and+JS;Let's+make+websites+dance+🕺🏽;Welcome+to+my+GitHub+🏔️" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -21,9 +21,14 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app" alt="Top Langs" />
+</div>
+
 ### 🔭 I’m working on
 
-- Projects for freelance clients.
+- Modern E-commerce platform (Freelance)
 
 ### 🤔 I’m looking for help with
 
@@ -31,14 +36,14 @@
 
 ### 📫 How to reach me
 
-<div display="flex">
-  <a href="https://www.linkedin.com/in/roman-blazhevskyi-5831601b8"/>
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/roman-blazhevskyi-5831601b8">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn""")/>>
   </a>
   <a href="mailto:blazhevskyiromanmagellan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-</div>
+  </a>
+</p>
 
 ### ⚡ Fun fact
 
@@ -57,9 +62,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-## Hi there 👋
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1800&pause=1000&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=500&lines=Hi+there+!+👋;My+name+is+Roman+Blazhevskyi;I'm+using+HTML,+CSS,+and+JavaScript;Let's+make+websites+dance+🕺🏽;Welcome+to+my+GitHub+🏔️+my+dear+visitors" alt="Typing SVG" /></a>
-</h1>
+<div display="flex">
+  <a href="https://www.linkedin.com/in/roman-blazhevskyi-5831601b8">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:blazhevskyiromanmagellan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 -->
