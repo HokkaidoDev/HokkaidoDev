@@ -1,7 +1,3 @@
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1800&pause=1000&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=500&lines=Hi+there+!+👋;My+name+is+Roman+Blazhevskyi;I'm+using+HTML,+CSS,+and+JavaScript;Let's+make+websites+dance+🕺🏽;Welcome+to+my+GitHub+🏔️+my+dear+visitors" alt="Typing SVG" /></a>
-</h1>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com!+👋;My+name+is+Roman+Blazhevskyi;I+build+with+HTML,+CSS,+and+JS;Let's+make+websites+dance+🕺🏽;Welcome+to+my+GitHub+🏔️" alt="Typing SVG" />
@@ -65,4 +61,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ## Hi there 👋
 I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1800&pause=1000&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=500&lines=Hi+there+!+👋;My+name+is+Roman+Blazhevskyi;I'm+using+HTML,+CSS,+and+JavaScript;Let's+make+websites+dance+🕺🏽;Welcome+to+my+GitHub+🏔️+my+dear+visitors" alt="Typing SVG" /></a>
+</h1>
 -->
