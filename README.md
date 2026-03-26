@@ -14,31 +14,26 @@
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="VITE" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
+<br />
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HokkaidoDev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HokkaidoDev&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HokkaidoDev&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HokkaidoDev&layout=compact&theme=default" alt="Top Langs" />
 </p>
 
 ### 🔭 I’m working on
 
 - Modern E-commerce platform (Freelance)
 
-### 🤔 I’m looking for help with
-
-- Integrating AI models into web applications
-
 ### 📫 How to reach me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/roman-blazhevskyi-5831601b8">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn")
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:blazhevskyiromanmagellan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -70,4 +65,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 -->
