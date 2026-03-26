@@ -1,9 +1,7 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com!+👋;My+name+is+Roman+Blazhevskyi;I+build+with+HTML,+CSS,+and+JS;Let's+make+websites+dance+🕺🏽;Welcome+to+my+GitHub+🏔️" alt="Typing SVG" />
+<h1 align = "center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2500&pause=1500&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=Hi+there+!+👋;My+name+is+Roman+Blazhevskyi;I+build+with+HTML,+CSS,+and+JS;Let's+make+websites+dance+🕺🏽;Welcome+to+my+GitHub+🏔️" alt="Typing SVG" />
   </a>
 </h1>
-
 
 **When I code, I rely on**
 
