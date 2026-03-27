@@ -20,7 +20,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=HokkaidoDev&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=HokkaidoDev&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </p>
 
 ### 🔭 I’m working on
