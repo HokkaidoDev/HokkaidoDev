@@ -20,8 +20,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HokkaidoDev&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HokkaidoDev&layout=compact&theme=default" alt="Top Langs" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=HokkaidoDev&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </p>
 
 ### 🔭 I’m working on
@@ -61,4 +60,9 @@ Here are some ideas to get you started:
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2500&pause=1500&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1000&height=325&lines=Hi+there+!+👋;My+name+is+Roman+Blazhevskyi;I+build+with+HTML,+CSS,+and+JS;Let's+make+websites+dance+🕺🏽;Welcome+to+my+GitHub+🏔️" alt="Typing SVG" />
     </a>
 </h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HokkaidoDev&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HokkaidoDev&layout=compact&theme=default" alt="Top Langs" />
+</p>
 -->
