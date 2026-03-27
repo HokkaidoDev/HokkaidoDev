@@ -20,7 +20,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=HokkaidoDev&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HokkaidoDev&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HokkaidoDev&layout=compact&theme=default" alt="Top Langs" />
 </p>
 
 ### 🔭 I’m working on
@@ -62,8 +63,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HokkaidoDev&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HokkaidoDev&layout=compact&theme=default" alt="Top Langs" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=HokkaidoDev&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </p>
 theme=github_dark
 -->
