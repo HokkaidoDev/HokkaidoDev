@@ -17,17 +17,17 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 
-### GitHub Stats
+### GitHub Stats:
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=HokkaidoDev&theme=default&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=HokkaidoDev&theme=github_default&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </p>
 
 ### 🔭 I’m working on
 
 - Modern E-commerce platform (Freelance)
 
-### 📫 How to reach me
+### 📫 How to reach me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/roman-blazhevskyi-5831601b8"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -65,5 +65,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=HokkaidoDev&show_icons=true&theme=default" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HokkaidoDev&layout=compact&theme=default" alt="Top Langs" />
 </p>
-theme=github_dark&graph
+theme=github_dark
 -->
