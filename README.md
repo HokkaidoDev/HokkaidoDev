@@ -17,10 +17,10 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 
-<br />
+### GitHub Stats :
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=HokkaidoDev&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=HokkaidoDev&theme=default=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </p>
 
 ### 🔭 I’m working on
@@ -65,4 +65,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=HokkaidoDev&show_icons=true&theme=default" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HokkaidoDev&layout=compact&theme=default" alt="Top Langs" />
 </p>
+theme=github_dark&graph
 -->
