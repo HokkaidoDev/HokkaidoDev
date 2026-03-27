@@ -17,17 +17,17 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 
-### GitHub Stats :
+### GitHub Stats
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=HokkaidoDev&theme=github_white&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=HokkaidoDev&theme=white&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </p>
 
 ### 🔭 I’m working on
 
 - Modern E-commerce platform (Freelance)
 
-### 📫 How to reach me :
+### 📫 How to reach me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/roman-blazhevskyi-5831601b8"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
