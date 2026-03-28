@@ -19,7 +19,7 @@
 
 <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HokkaidoDev&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=HokkaidoDev&show_icons=true&theme=default" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HokkaidoDev&layout=compact&theme=default" alt="Top Langs" />
 </p>
 
